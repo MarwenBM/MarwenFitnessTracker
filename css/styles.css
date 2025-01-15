@@ -1,0 +1,101 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+header {
+  background: #007BFF;
+  color: white;
+  padding: 1rem 0;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 10px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+footer {
+  background: #333;
+  color: white;
+  text-align: center;
+  padding: 1rem 0;
+  margin-top: 2rem;
+}
+
+main {
+  padding: 1rem;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+table, th, td {
+  border: 1px solid #ddd;
+}
+
+th, td {
+  padding: 0.5rem;
+  text-align: center;
+}
+
+th {
+  background: #f4f4f4;
+}
+
+/* Form Styles */
+form {
+  margin-bottom: 2rem;
+}
+
+form label {
+  display: block;
+  margin: 0.5rem 0 0.2rem;
+}
+
+form input, form textarea, form button {
+  width: 100%;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+form button {
+  background: #007BFF;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+form button:hover {
+  background: #0056b3;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+  nav ul li {
+    display: block;
+    margin: 5px 0;
+  }
+}
