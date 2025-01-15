@@ -1,0 +1,18 @@
+[
+  {
+    "date": "2025-01-10",
+    "exercise": "Squats",
+    "sets": 4,
+    "reps": 10,
+    "weight": "80kg",
+    "notes": "Good form"
+  },
+  {
+    "date": "2025-01-12",
+    "exercise": "Bench Press",
+    "sets": 4,
+    "reps": 8,
+    "weight": "70kg",
+    "notes": "Increase weight next time"
+  }
+]
