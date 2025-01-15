@@ -1,165 +1,165 @@
 [
-    {
-      "day": 1,
-      "focus": "Chest & Triceps",
-      "exercises": [
-        {
-          "name": "Smith Machine Bench Press",
-          "sets": 4,
-          "reps": "8-10",
-          "rpe": "7-8"
-        },
-        {
-          "name": "Incline Dumbbell Press",
-          "sets": 4,
-          "reps": "10-12",
-          "rpe": "7-8"
-        },
-        {
-          "name": "Triceps Dips",
-          "sets": 3,
-          "reps": "10-12",
-          "notes": "Assisted if needed"
-        },
-        {
-          "name": "Cable Triceps Pushdowns",
-          "sets": 3,
-          "reps": "12-15"
-        }
-      ]
-    },
-    {
-      "day": 2,
-      "focus": "Back & Biceps",
-      "exercises": [
-        {
-          "name": "Pull-Ups",
-          "sets": 4,
-          "reps": "8-10",
-          "notes": "Assisted"
-        },
-        {
-          "name": "Seated Cable Rows",
-          "sets": 4,
-          "reps": "10-12"
-        },
-        {
-          "name": "Barbell Rows",
-          "sets": 3,
-          "reps": "8-10",
-          "notes": "Smith Machine"
-        },
-        {
-          "name": "Dumbbell Curls",
-          "sets": 3,
-          "reps": "12-15"
-        },
-        {
-          "name": "Hammer Curls",
-          "sets": 3,
-          "reps": "12-15"
-        }
-      ]
-    },
-    {
-      "day": 3,
-      "focus": "Legs & Abs",
-      "exercises": [
-        {
-          "name": "Leg Press",
-          "sets": 4,
-          "reps": "10-12"
-        },
-        {
-          "name": "Romanian Deadlifts",
-          "sets": 3,
-          "reps": "8-10"
-        },
-        {
-          "name": "Leg Curls",
-          "sets": 3,
-          "reps": "12-15"
-        },
-        {
-          "name": "Weighted Decline Sit-Ups",
-          "sets": 3,
-          "reps": "15-20"
-        },
-        {
-          "name": "Plank",
-          "sets": 3,
-          "reps": "30-60 seconds",
-          "notes": "Hold"
-        }
-      ]
-    },
-    {
-      "day": 4,
-      "focus": "Rest/Active Recovery",
-      "exercises": []
-    },
-    {
-      "day": 5,
-      "focus": "Shoulders & Arms",
-      "exercises": [
-        {
-          "name": "Dumbbell Shoulder Press",
-          "sets": 4,
-          "reps": "10-12"
-        },
-        {
-          "name": "Lateral Raises",
-          "sets": 3,
-          "reps": "12-15"
-        },
-        {
-          "name": "Rear Delt Fly",
-          "sets": 3,
-          "reps": "12-15",
-          "notes": "Cable or Dumbbell"
-        },
-        {
-          "name": "Overhead Triceps Extensions",
-          "sets": 3,
-          "reps": "12-15"
-        },
-        {
-          "name": "Concentration Curls",
-          "sets": 3,
-          "reps": "12-15"
-        }
-      ]
-    },
-    {
-      "day": 6,
-      "focus": "Full-Body Compound Movements",
-      "exercises": [
-        {
-          "name": "Deadlift",
-          "sets": 3,
-          "reps": "6-8",
-          "rpe": "7-9"
-        },
-        {
-          "name": "Front Squat",
-          "sets": 3,
-          "reps": "8-10"
-        },
-        {
-          "name": "Bench Press",
-          "sets": 3,
-          "reps": "8-10"
-        },
-        {
-          "name": "Chin-Ups",
-          "sets": 3,
-          "reps": "8-10"
-        }
-      ]
-    },
-    {
-      "day": 7,
-      "focus": "Rest",
-      "exercises": []
-    }
-  ]
+  {
+    "day": 1,
+    "focus": "Chest & Triceps",
+    "exercises": [
+      {
+        "name": "Smith Machine Bench Press",
+        "sets": 4,
+        "reps": "8-10",
+        "rpe": "7-8"
+      },
+      {
+        "name": "Incline Dumbbell Press",
+        "sets": 4,
+        "reps": "10-12",
+        "rpe": "7-8"
+      },
+      {
+        "name": "Triceps Dips",
+        "sets": 3,
+        "reps": "10-12",
+        "notes": "Assisted if needed"
+      },
+      {
+        "name": "Cable Triceps Pushdowns",
+        "sets": 3,
+        "reps": "12-15"
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "focus": "Back & Biceps",
+    "exercises": [
+      {
+        "name": "Pull-Ups",
+        "sets": 4,
+        "reps": "8-10",
+        "notes": "Assisted"
+      },
+      {
+        "name": "Seated Cable Rows",
+        "sets": 4,
+        "reps": "10-12"
+      },
+      {
+        "name": "Barbell Rows",
+        "sets": 3,
+        "reps": "8-10",
+        "notes": "Smith Machine"
+      },
+      {
+        "name": "Dumbbell Curls",
+        "sets": 3,
+        "reps": "12-15"
+      },
+      {
+        "name": "Hammer Curls",
+        "sets": 3,
+        "reps": "12-15"
+      }
+    ]
+  },
+  {
+    "day": 3,
+    "focus": "Legs & Abs",
+    "exercises": [
+      {
+        "name": "Leg Press",
+        "sets": 4,
+        "reps": "10-12"
+      },
+      {
+        "name": "Romanian Deadlifts",
+        "sets": 3,
+        "reps": "8-10"
+      },
+      {
+        "name": "Leg Curls",
+        "sets": 3,
+        "reps": "12-15"
+      },
+      {
+        "name": "Weighted Decline Sit-Ups",
+        "sets": 3,
+        "reps": "15-20"
+      },
+      {
+        "name": "Plank",
+        "sets": 3,
+        "reps": "30-60 seconds",
+        "notes": "Hold"
+      }
+    ]
+  },
+  {
+    "day": 4,
+    "focus": "Rest/Active Recovery",
+    "exercises": []
+  },
+  {
+    "day": 5,
+    "focus": "Shoulders & Arms",
+    "exercises": [
+      {
+        "name": "Dumbbell Shoulder Press",
+        "sets": 4,
+        "reps": "10-12"
+      },
+      {
+        "name": "Lateral Raises",
+        "sets": 3,
+        "reps": "12-15"
+      },
+      {
+        "name": "Rear Delt Fly",
+        "sets": 3,
+        "reps": "12-15",
+        "notes": "Cable or Dumbbell"
+      },
+      {
+        "name": "Overhead Triceps Extensions",
+        "sets": 3,
+        "reps": "12-15"
+      },
+      {
+        "name": "Concentration Curls",
+        "sets": 3,
+        "reps": "12-15"
+      }
+    ]
+  },
+  {
+    "day": 6,
+    "focus": "Full-Body Compound Movements",
+    "exercises": [
+      {
+        "name": "Deadlift",
+        "sets": 3,
+        "reps": "6-8",
+        "rpe": "7-9"
+      },
+      {
+        "name": "Front Squat",
+        "sets": 3,
+        "reps": "8-10"
+      },
+      {
+        "name": "Bench Press",
+        "sets": 3,
+        "reps": "8-10"
+      },
+      {
+        "name": "Chin-Ups",
+        "sets": 3,
+        "reps": "8-10"
+      }
+    ]
+  },
+  {
+    "day": 7,
+    "focus": "Rest",
+    "exercises": []
+  }
+]
