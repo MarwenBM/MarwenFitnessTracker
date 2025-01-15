@@ -1,0 +1,20 @@
+[
+  {
+    "day": "Monday",
+    "exercise": "Bench Press",
+    "sets": 4,
+    "reps": 10,
+    "weight": "70kg",
+    "rest": "90s",
+    "notes": "Focus on form"
+  },
+  {
+    "day": "Tuesday",
+    "exercise": "Deadlift",
+    "sets": 4,
+    "reps": 8,
+    "weight": "100kg",
+    "rest": "120s",
+    "notes": "Engage core"
+  }
+]
