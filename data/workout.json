@@ -1,5 +1,4 @@
-{
-  "workoutPlan": [
+[
     {
       "day": 1,
       "focus": "Chest & Triceps",
@@ -164,4 +163,3 @@
       "exercises": []
     }
   ]
-}
